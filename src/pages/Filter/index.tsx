@@ -160,7 +160,7 @@ const Filter: React.FC = () => {
         <Content>
           <div>Please enter patient's client ID</div>
           <FormControl style={{ width: 300, marginTop: 30 }} variant="outlined">
-            <InputLabel htmlFor="outlined-adornment-license">License</InputLabel>
+            <InputLabel htmlFor="outlined-adornment-license">Client ID</InputLabel>
             <OutlinedInput
               required
               id="outlined-adornment-license"
